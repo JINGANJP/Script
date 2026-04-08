@@ -1,0 +1,26 @@
+# 炉石传说自动化Bot依赖
+# 安装命令: pip install -r requirements.txt
+
+# 屏幕截图与图像识别
+pillow>=10.0.0          # 图像处理
+opencv-python>=4.8.0    # 图像匹配/模板匹配
+pytesseract>=0.3.10     # OCR文字识别（可选）
+mss>=9.0.1              # 快速多显示器截图
+
+# 鼠标键盘自动化
+pyautogui>=0.9.54       # 鼠标模拟点击、移动
+pynput>=1.7.6           # 全局热键监听
+
+# 日志解析
+watchdog>=3.0.0         # 文件系统监控（实时读取Power.log）
+
+# UI悬浮窗
+PyQt6>=6.5.0            # 半透明悬浮窗界面
+
+# 数据处理
+requests>=2.31.0        # HTTP请求（下载卡牌数据库）
+numpy>=1.24.0           # 数值计算
+
+# 工具
+loguru>=0.7.0           # 优雅的日志库
+pydantic>=2.0.0         # 数据验证
