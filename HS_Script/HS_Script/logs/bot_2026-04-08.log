@@ -1,0 +1,73 @@
+2026-04-08 17:12:39.972 | INFO     | __main__:64 - ==================================================
+2026-04-08 17:12:39.972 | INFO     | __main__:65 -   炉石传说 Bot 启动中...
+2026-04-08 17:12:39.973 | INFO     | __main__:66 -   模式: 全自动 | UI: 悬浮窗
+2026-04-08 17:12:39.973 | INFO     | __main__:67 - ==================================================
+2026-04-08 17:12:39.974 | INFO     | data.cards_db:93 - 下载卡牌数据库中... (https://api.hearthstonejson.com/v1/latest/zhCN/cards.json)
+2026-04-08 17:12:43.344 | ERROR    | data.cards_db:109 - 下载失败: 'str' object has no attribute 'get'，降级使用内置数据库
+2026-04-08 17:12:43.360 | INFO     | core.log_parser:133 - LogParser 初始化，监控路径: C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log
+2026-04-08 17:12:43.360 | INFO     | core.screen_controller:88 - 自动操作处于[演示模式]（未安装自动化依赖，仅输出操作日志）
+2026-04-08 17:12:43.360 | WARNING  | core.log_parser:140 - 日志文件不存在：C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log，等待游戏启动...
+2026-04-08 17:12:43.360 | INFO     | core.log_parser:144 - 日志监控线程已启动
+2026-04-08 17:12:43.360 | WARNING  | __main__:251 - PyQt6 不可用，切换到命令行模式
+2026-04-08 17:28:17.987 | INFO     | __main__:64 - ==================================================
+2026-04-08 17:28:17.987 | INFO     | __main__:65 -   炉石传说 Bot 启动中...
+2026-04-08 17:28:17.987 | INFO     | __main__:66 -   模式: 全自动 | UI: 悬浮窗
+2026-04-08 17:28:17.987 | INFO     | __main__:67 - ==================================================
+2026-04-08 17:28:18.163 | WARNING  | data.cards_db:80 - 缓存读取失败: 'str' object has no attribute 'get'，尝试重新下载
+2026-04-08 17:28:18.164 | INFO     | data.cards_db:93 - 下载卡牌数据库中... (https://api.hearthstonejson.com/v1/latest/zhCN/cards.json)
+2026-04-08 17:28:22.230 | ERROR    | data.cards_db:109 - 下载失败: 'str' object has no attribute 'get'，降级使用内置数据库
+2026-04-08 17:28:22.266 | INFO     | core.log_parser:133 - LogParser 初始化，监控路径: C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log
+2026-04-08 17:28:22.266 | INFO     | core.screen_controller:88 - 自动操作处于[演示模式]（未安装自动化依赖，仅输出操作日志）
+2026-04-08 17:28:22.266 | WARNING  | core.log_parser:140 - 日志文件不存在：C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log，等待游戏启动...
+2026-04-08 17:28:22.268 | INFO     | core.log_parser:144 - 日志监控线程已启动
+2026-04-08 17:28:22.268 | WARNING  | __main__:251 - PyQt6 不可用，切换到命令行模式
+2026-04-08 17:31:27.212 | INFO     | __main__:64 - ==================================================
+2026-04-08 17:31:27.213 | INFO     | __main__:65 -   炉石传说 Bot 启动中...
+2026-04-08 17:31:27.213 | INFO     | __main__:66 -   模式: 全自动 | UI: 悬浮窗
+2026-04-08 17:31:27.213 | INFO     | __main__:67 - ==================================================
+2026-04-08 17:31:27.422 | WARNING  | data.cards_db:80 - 缓存读取失败: 'str' object has no attribute 'get'，尝试重新下载
+2026-04-08 17:31:27.423 | INFO     | data.cards_db:93 - 下载卡牌数据库中... (https://api.hearthstonejson.com/v1/latest/zhCN/cards.json)
+2026-04-08 17:31:29.311 | ERROR    | data.cards_db:109 - 下载失败: 'str' object has no attribute 'get'，降级使用内置数据库
+2026-04-08 17:31:29.348 | INFO     | core.log_parser:133 - LogParser 初始化，监控路径: C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log
+2026-04-08 17:31:29.348 | INFO     | core.screen_controller:88 - 自动操作处于[演示模式]（未安装自动化依赖，仅输出操作日志）
+2026-04-08 17:31:29.349 | WARNING  | core.log_parser:140 - 日志文件不存在：C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log，等待游戏启动...
+2026-04-08 17:31:29.351 | INFO     | core.log_parser:144 - 日志监控线程已启动
+2026-04-08 17:31:29.352 | WARNING  | __main__:251 - PyQt6 不可用，切换到命令行模式
+2026-04-08 17:37:55.432 | INFO     | __main__:64 - ==================================================
+2026-04-08 17:37:55.433 | INFO     | __main__:65 -   炉石传说 Bot 启动中...
+2026-04-08 17:37:55.433 | INFO     | __main__:66 -   模式: 全自动 | UI: 悬浮窗
+2026-04-08 17:37:55.433 | INFO     | __main__:67 - ==================================================
+2026-04-08 17:37:55.569 | WARNING  | data.cards_db:80 - 缓存读取失败: 'str' object has no attribute 'get'，尝试重新下载
+2026-04-08 17:37:55.570 | INFO     | data.cards_db:93 - 下载卡牌数据库中... (https://api.hearthstonejson.com/v1/latest/zhCN/cards.json)
+2026-04-08 17:37:57.849 | ERROR    | data.cards_db:109 - 下载失败: 'str' object has no attribute 'get'，降级使用内置数据库
+2026-04-08 17:37:57.870 | INFO     | core.log_parser:133 - LogParser 初始化，监控路径: C:\Users\23702\AppData\Local\Blizzard\Hearthstone\Logs\Power.log
+2026-04-08 17:37:57.871 | INFO     | core.screen_controller:88 - 自动操作处于[演示模式]（未安装自动化依赖，仅输出操作日志）
+2026-04-08 17:37:57.871 | INFO     | __main__:295 - 使用自定义日志路径: C:\你的实际路径\Power.log
+2026-04-08 17:37:57.871 | WARNING  | core.log_parser:140 - 日志文件不存在：C:\你的实际路径\Power.log，等待游戏启动...
+2026-04-08 17:37:57.872 | INFO     | core.log_parser:144 - 日志监控线程已启动
+2026-04-08 17:37:57.873 | WARNING  | __main__:251 - PyQt6 不可用，切换到命令行模式
+2026-04-08 18:09:29.777 | INFO     | __main__:64 - ==================================================
+2026-04-08 18:09:29.777 | INFO     | __main__:65 -   炉石传说 Bot 启动中...
+2026-04-08 18:09:29.777 | INFO     | __main__:66 -   模式: 仅建议 | UI: 悬浮窗
+2026-04-08 18:09:29.777 | INFO     | __main__:67 - ==================================================
+2026-04-08 18:09:29.933 | WARNING  | data.cards_db:80 - 缓存读取失败: 'str' object has no attribute 'get'，尝试重新下载
+2026-04-08 18:09:29.933 | INFO     | data.cards_db:93 - 下载卡牌数据库中... (https://api.hearthstonejson.com/v1/latest/zhCN/cards.json)
+2026-04-08 18:09:31.531 | ERROR    | data.cards_db:109 - 下载失败: 'str' object has no attribute 'get'，降级使用内置数据库
+2026-04-08 18:09:31.547 | INFO     | core.log_parser:133 - LogParser 初始化，监控路径: C:\Program Files (x86)\Hearthstone\Logs\Power.log
+2026-04-08 18:09:31.547 | INFO     | core.screen_controller:90 - 屏幕操作控制器已初始化，FAILSAFE已启用（移动到左上角可紧急停止）
+2026-04-08 18:09:31.547 | WARNING  | core.log_parser:140 - 日志文件不存在：C:\Program Files (x86)\Hearthstone\Logs\Power.log，等待游戏启动...
+2026-04-08 18:09:31.547 | INFO     | core.log_parser:144 - 日志监控线程已启动
+2026-04-08 18:09:32.057 | INFO     | ui.overlay:100 - 悬浮窗已创建
+2026-04-08 18:20:28.099 | INFO     | __main__:64 - ==================================================
+2026-04-08 18:20:28.100 | INFO     | __main__:65 -   炉石传说 Bot 启动中...
+2026-04-08 18:20:28.101 | INFO     | __main__:66 -   模式: 仅建议 | UI: 悬浮窗
+2026-04-08 18:20:28.101 | INFO     | __main__:67 - ==================================================
+2026-04-08 18:20:28.320 | WARNING  | data.cards_db:80 - 缓存读取失败: 'str' object has no attribute 'get'，尝试重新下载
+2026-04-08 18:20:28.320 | INFO     | data.cards_db:93 - 下载卡牌数据库中... (https://api.hearthstonejson.com/v1/latest/zhCN/cards.json)
+2026-04-08 18:20:30.342 | ERROR    | data.cards_db:109 - 下载失败: 'str' object has no attribute 'get'，降级使用内置数据库
+2026-04-08 18:20:30.374 | INFO     | core.log_parser:133 - LogParser 初始化，监控路径: C:\Program Files (x86)\Hearthstone\Logs\Power.log
+2026-04-08 18:20:30.374 | INFO     | core.screen_controller:90 - 屏幕操作控制器已初始化，FAILSAFE已启用（移动到左上角可紧急停止）
+2026-04-08 18:20:30.374 | INFO     | __main__:295 - 使用自定义日志路径: C:\Program Files (x86)\Hearthstone\Logs\Power.log
+2026-04-08 18:20:30.375 | WARNING  | core.log_parser:140 - 日志文件不存在：C:\Program Files (x86)\Hearthstone\Logs\Power.log，等待游戏启动...
+2026-04-08 18:20:30.376 | INFO     | core.log_parser:144 - 日志监控线程已启动
+2026-04-08 18:20:30.499 | INFO     | ui.overlay:100 - 悬浮窗已创建
